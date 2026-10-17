@@ -50,7 +50,7 @@ The Stormwatch dashboard features a circular radar with range rings, reference l
 - **Supercells** with severity levels from 1 to 5.
 - **Tornadoes** rated from EF0 to EF5.
 - **Hot air balloon**.
-- Tornadoes move across terrain, have formation stages, emit particles, and affect nearby entities. The current implementation does not destroy blocks.
+- Tornadoes move across terrain, have formation stages, emit particles, and affect nearby entities, destroy blocks.
 
 ## Installation
 
@@ -68,7 +68,6 @@ The Stormwatch dashboard features a circular radar with range rings, reference l
 4. Place the mod `.jar` and Fabric API `.jar` in the `mods` folder for your Fabric profile.
 5. Launch Minecraft using that profile.
 
-Renaming the `.jar` does not update the mod; its contents and version are determined when it is built.
 
 ## Usage
 
@@ -80,14 +79,11 @@ The following commands use the `/stormwatch` root and require permission level 2
 
 | Command | Description |
 | --- | --- |
-| `/stormwatch forecast` | Displays a short report on weather and nearby phenomena. |
-| `/stormwatch rain` | Starts heavy rain for 10 minutes. |
-| `/stormwatch rain <minutes>` | Starts heavy rain for the specified duration (1–60 minutes). |
-| `/stormwatch supercell` | Creates a nearby supercell with severity 3. |
-| `/stormwatch supercell <severity>` | Creates a supercell with severity 1–5. |
-| `/stormwatch tornado` | Creates a nearby EF2 tornado. |
-| `/stormwatch tornado <ef>` | Creates a tornado rated EF0–EF5. |
-| `/stormwatch clear` | Ends active cells, tornadoes, and alerts managed by the mod. |
+| `/meteo info` | Displays a short report on weather and nearby phenomena. |
+| `/meteo rain` | Starts heavy rain for 10 minutes. |
+| `/meteo rain <severity>` | Starts heavy rain for the specified duration (1–60 minutes). | 
+| `/meteo supercell <severity>` | Creates a supercell with severity 1–5. |
+| `/meteo tornado <ef>` | Creates a tornado rated EF0–EF5. |
 
 Creation commands place phenomena near the player who ran the command. These are admin and testing tools, not available to players without the required permission.
 
