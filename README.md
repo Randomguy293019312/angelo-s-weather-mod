@@ -87,42 +87,14 @@ The following commands use the `/stormwatch` root and require permission level 2
 
 Creation commands place phenomena near the player who ran the command. These are admin and testing tools, not available to players without the required permission.
 
-## Build from source
 
-The project uses Gradle, Fabric Loom, and Java 17. From the repository root, run:
-
-```bash
-./gradlew build
-```
-
-On Windows:
-
-```bat
-gradlew.bat build
-```
-
-Build outputs are written to `build/libs/`. The project also provides a `copyModJar` task, which copies the remapped artifact to `build/deliverables/` as `stormwatch-<version>.jar`.
-
-## Technologies
-
-- Minecraft 1.20.1
-- Fabric Loader and Fabric API
-- Java 17
-- Gradle and Fabric Loom
-
-## Screenshots
-
-Add screenshots of the radar, instruments, and weather phenomena here. Upload images to the repository and reference them like this:
-
-```md
-![Stormwatch radar dashboard](docs/images/radar.png)
 ```
 
 ## Credits
 
 - **Repository:** Angelo's Weather Mod
 - **Mod name:** Stormwatch
-- **Author:** Angelo
+- **Author:** Randomguy293019312
 
 ## License
 
