@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "ABT",
+    "III"
+  ],
+  "key": {
+    "A": {
+      "item": "meteorologia:anemometer"
+    },
+    "B": {
+      "item": "meteorologia:barometer"
+    },
+    "T": {
+      "item": "meteorologia:thermometer"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "id": "meteorologia:weather_station",
+    "count": 1
+  }
+}

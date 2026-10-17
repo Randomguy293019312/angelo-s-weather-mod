@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "meteorologia:block/weather_station"
+    }
+  }
+}

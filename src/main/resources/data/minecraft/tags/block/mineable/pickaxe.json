@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "meteorologia:radar",
+    "meteorologia:anemometer",
+    "meteorologia:barometer",
+    "meteorologia:thermometer",
+    "meteorologia:weather_station",
+    "meteorologia:rain_gauge",
+    "meteorologia:storm_siren"
+  ]
+}

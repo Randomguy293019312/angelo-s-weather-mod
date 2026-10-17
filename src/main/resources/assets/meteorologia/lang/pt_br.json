@@ -1,0 +1,17 @@
+{
+  "block.meteorologia.radar": "Radar Meteorológico",
+  "block.meteorologia.anemometer": "Anemômetro",
+  "block.meteorologia.barometer": "Barômetro",
+  "block.meteorologia.thermometer": "Termo-higrômetro",
+  "block.meteorologia.weather_station": "Estação Meteorológica",
+  "block.meteorologia.rain_gauge": "Pluviômetro",
+  "block.meteorologia.storm_siren": "Sirene de Tempestade",
+  "item.meteorologia.weather_radio": "Rádio Meteorológico",
+  "item.meteorologia.handheld_meter": "Medidor Portátil",
+  "item.meteorologia.emergency_kit": "Kit de Emergência",
+  "item.meteorologia.propane_tank": "Botijão de Propano",
+  "item.meteorologia.energy_bar": "Barra Energética",
+  "item.meteorologia.hot_air_balloon": "Balão de Ar Quente",
+  "entity.meteorologia.hot_air_balloon": "Balão de Ar Quente",
+  "itemGroup.meteorologia": "Meteorologia"
+}

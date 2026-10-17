@@ -1,0 +1,26 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "MIT"
+
+[[mods]]
+modId = "meteorologia"
+version = "1.0.0"
+displayName = "Meteorologia"
+description = '''
+Mod de meteorologia: tornados e nuvens renderizados com ray marching, supercelulas,
+chuvas fortes, radar, estacao meteorologica, baloes de ar quente e itens de sobrevivencia.
+'''
+
+[[dependencies.meteorologia]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.meteorologia]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1]"
+ordering = "NONE"
+side = "BOTH"
