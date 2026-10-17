@@ -22,7 +22,7 @@ The Stormwatch dashboard features a circular radar with range rings, reference l
 ```text
 ┌──────────────────── STORMWATCH // RADAR ────────────────────┐
 │                                                              │
-│       RADAR (384 blocks)                                     │
+│                                                              │
 │      .-----------------.                                     │
 │     /   rings & targets \                   info here        │
 │    |    cells      ●     |                                   │
