@@ -1,12 +1,123 @@
-Copyright (c) 2026 [Randomguy293019312]
-All rights reserved.
+===============================================================================
+                    PROPRIETARY LICENSE — ALL RIGHTS RESERVED
+===============================================================================
 
-This repository and its contents are made available for viewing only. No license
-or permission is granted to copy, modify, distribute, publish, sublicense, or
-use any part of this work, in source or binary form, without prior written
-permission from the copyright holder.
+Copyright (c) 2026 Randomguy293019312. All rights reserved.
 
-THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
 
-For permission requests, contact the copyright holder through the contact
-information provided in this repository.
+-------------------------------------------------------------------------------
+  IMPORTANT — NO PERMISSION TO COPY, MODIFY, OR REDISTRIBUTE
+-------------------------------------------------------------------------------
+
+  | This repository may be publicly viewed, but public access does not grant
+  | permission to copy, modify, distribute, publish, or reuse the Work.
+  |
+  | Written permission from the copyright holder is required for any use
+  | beyond viewing the repository on its hosting platform.
+
+
+1. SCOPE
+-------------------------------------------------------------------------------
+
+This license applies to the original source code, documentation, configuration
+files, artwork, textures, models, audio, and other materials in this repository
+that are owned by the copyright holder (collectively, the "Work"). It does not
+replace or override the terms of any third-party material included in or used
+by the Work; such material remains subject to its own license and attribution
+requirements.
+
+
+2. NO RIGHTS GRANTED
+-------------------------------------------------------------------------------
+
+The Work is provided for public viewing on the hosting platform only. Except
+for the limited rights that the platform's own terms necessarily grant to
+operate and display the repository, no license or other permission is granted
+to any person to use the Work.
+
+Without prior, express, written permission from the copyright holder, you may
+not, in whole or in part:
+
+  a. copy, reproduce, or make another copy of the Work;
+  b. modify, adapt, translate, merge, or create derivative works from the Work;
+  c. publish, distribute, transmit, sublicense, sell, rent, or otherwise make
+     the Work or a derivative work available to another person;
+  d. incorporate the Work into another project, product, mod, service, or
+     repository;
+  e. remove, obscure, or alter copyright, license, or other ownership notices;
+     or
+  f. claim authorship of, or imply endorsement by the copyright holder for,
+     the Work or a derivative work.
+
+
+3. PERMISSION REQUESTS
+-------------------------------------------------------------------------------
+
+To request permission for an activity not allowed above, contact the copyright
+holder through the contact information listed in the repository. A request or
+discussion does not itself grant permission. Permission is effective only when
+the copyright holder expressly grants it in writing and the grant describes
+the permitted use.
+
+
+4. CONTRIBUTIONS
+-------------------------------------------------------------------------------
+
+Unless a separate written agreement says otherwise, any contribution you
+submit to this repository is provided under these same terms, and you confirm
+that you have the right to submit it. Do not submit material that you do not
+own or are not authorized to license on these terms.
+
+
+5. THIRD-PARTY MATERIAL
+-------------------------------------------------------------------------------
+
+This license covers only material owned by the copyright holder. It does not
+grant rights to Minecraft, Fabric, libraries, or any other third-party names,
+software, assets, or services. Third-party components are governed by their
+respective owners' licenses and terms. Their inclusion does not imply
+endorsement by their owners.
+
+
+6. DISCLAIMER OF WARRANTY
+-------------------------------------------------------------------------------
+
+  | THE WORK IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+  | KIND, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF
+  | MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND
+  | NON-INFRINGEMENT. THE COPYRIGHT HOLDER DOES NOT WARRANT THAT THE WORK WILL
+  | BE ERROR-FREE, SECURE, OR AVAILABLE WITHOUT INTERRUPTION.
+
+
+7. LIMITATION OF LIABILITY
+-------------------------------------------------------------------------------
+
+  | TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER
+  | WILL NOT BE LIABLE FOR ANY DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF,
+  | OR IN CONNECTION WITH THE WORK OR THE USE OR INABILITY TO USE THE WORK,
+  | WHETHER IN CONTRACT, TORT, OR OTHERWISE.
+
+
+8. TERMINATION
+-------------------------------------------------------------------------------
+
+Any permission expressly granted in writing may be terminated according to
+its stated terms. If you violate this license, any permission granted to you
+under it terminates to the extent permitted by applicable law. Sections that
+by their nature should continue to apply will remain in effect.
+
+
+9. GENERAL
+-------------------------------------------------------------------------------
+
+This license does not waive any copyright or other rights held by the
+copyright holder. If any provision is found unenforceable, the remaining
+provisions will continue to apply to the extent permitted by applicable law.
+No failure to enforce a provision is a waiver of the right to enforce it later.
+
+
+  | THIS IS A CUSTOM, PROPRIETARY LICENSE — IT IS NOT AN OPEN-SOURCE LICENSE.
+  | Public visibility does not grant permission to copy, modify, redistribute,
+  | or republish the Work.
+
+===============================================================================
