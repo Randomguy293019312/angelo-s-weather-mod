@@ -21,15 +21,15 @@ The Stormwatch dashboard features a circular radar with range rings, reference l
 
 ```text
 ┌──────────────────── STORMWATCH // RADAR ────────────────────┐
-│                                                              │
-│                                                              │
-│      .-----------------.                                     │
-│     /   rings & targets \                   info here        │
-│    |    cells      ●     |                                   │
-│    |        + player     |                                   │
-│     \___________________/                                    │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+│                                                             │
+│                                                             │
+│      .-----------------.                                    │
+│     /   rings & targets \                   info here       │
+│    |    cells   ●        |                                  │
+│    |        + player     |                                  │
+│     \___________________/                                   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 
