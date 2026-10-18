@@ -80,7 +80,6 @@ The following commands use the `/stormwatch` root and require permission level 2
 | Command | Description |
 | --- | --- |
 | `/meteo info` | Displays a short report on weather and nearby phenomena. |
-| `/meteo rain` | Starts heavy rain for 10 minutes. |
 | `/meteo rain <severity>` | Starts heavy rain for the specified duration (1–60 minutes). | 
 | `/meteo supercell <severity>` | Creates a supercell with severity 1–5. |
 | `/meteo tornado <ef>` | Creates a tornado rated EF0–EF5. |
