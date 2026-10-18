@@ -37,7 +37,7 @@ The Stormwatch dashboard features a circular radar with range rings, reference l
 
 ### Instruments and items
 
-> **Radar** — console for tracking nearby cells and tornadoes
+>  **Radar** — console for tracking nearby cells and tornadoes
 >  **Weather Station** — local-conditions dashboard
 >  **Weather phone** — portable access to the dashboard
 >  **Storm Siren** — warning instrument
