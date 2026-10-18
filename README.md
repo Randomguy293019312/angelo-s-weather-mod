@@ -37,13 +37,13 @@ The Stormwatch dashboard features a circular radar with range rings, reference l
 
 ### Instruments and items
 
->  **Radar** — console for tracking nearby cells and tornadoes
->  **Weather Station** — local-conditions dashboard
->  **Weather phone** — portable access to the dashboard
->  **Storm Siren** — warning instrument
->  **energy bar** — themed shelter and warning equipment
->  **Survival kit** — preparation item for severe conditions
->  **Hot Air Balloon** — item associated with the mod's hot air balloon.
+ - **Radar** — console for tracking nearby cells and tornadoes
+ - **Weather Station** — local-conditions dashboard
+ - **Weather phone** — portable access to the dashboard
+ - **Storm Siren** — warning instrument
+ - **energy bar** — themed shelter and warning equipment
+ - **Survival kit** — preparation item for severe conditions
+ - **Hot Air Balloon** — item associated with the mod's hot air balloon.
 
 ### Weather phenomena and entities
 
